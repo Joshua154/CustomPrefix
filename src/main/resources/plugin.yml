@@ -1,0 +1,6 @@
+name: CustomPrefix
+version: '1.0.0'
+main: dev.joshuan.customPrefix.CustomPrefix
+api-version: '1.21.10'
+authors: [ Joshua154 ]
+depend: [ LuckPerms ]
